@@ -6,7 +6,7 @@ I am also practicing now how to start new projects in JavaScript so that I can p
 
 The software I have built here is a simple "Hello World" program that prints the words "Hello World" to the terminal. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/WSUdsbf4S0I)
 
 # Development Environment
 
