@@ -20,5 +20,4 @@ At the base of my project I used JavaScript to write the actual functionallity o
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [BYU Pathways Hello World Module](https://byui-cse.github.io/cse310-ww-course/week01/activity_portfolio.html)
